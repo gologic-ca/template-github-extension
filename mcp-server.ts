@@ -1,3 +1,5 @@
+import "dotenv/config"; // Charge les variables d'environnement depuis .env
+
 import express = require("express");
 import type { Request, Response } from "express";
 // @ts-ignore
