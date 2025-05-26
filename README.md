@@ -1,6 +1,6 @@
 # confluence-extension
 
-This extension provides an example of integrating a GitHub Copilot Extension with Confluence. It retrieves the content of a Confluence page and summarizes it or answers questions about it using Copilot's LLM API. The repository demonstrates the building blocks of a Copilot Extension with external API integration. See [index.js](/index.js) for the main logic.
+This extension provides an example of integrating a GitHub Copilot Extension with Confluence. It retrieves the content of a Confluence page and summarizes it or answers questions about it using Copilot's LLM API. The repository demonstrates the building blocks of a Copilot Extension with external API integration. See [index.ts](/index.ts) for the main logic.
 
 ## Development
 
