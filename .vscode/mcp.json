@@ -1,0 +1,8 @@
+{
+    "servers": {
+      // The "servers" section defines the MCP servers you want to use.
+      "confluence-scraper": {
+        "url": "http://localhost:4000/mcp"
+      },
+    }
+  }
